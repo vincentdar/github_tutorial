@@ -1,1 +1,7 @@
-Hi goodmorning~
+def main()
+    print "Could you see me in docker?"
+
+if _name_ == "_main_":
+   main()
+
+
